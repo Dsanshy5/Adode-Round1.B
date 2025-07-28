@@ -5,3 +5,6 @@ venv/
 
 # OS
 .DS_Store
+
+# Large model files
+models/

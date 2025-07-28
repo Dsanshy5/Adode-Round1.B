@@ -1,0 +1,5 @@
+sentence-transformers
+llama-cpp-python
+PyMuPDF
+torch
+huggingface-hub
